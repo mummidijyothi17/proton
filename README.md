@@ -1,6 +1,6 @@
 # Prerequisites
 ######
-- JDK 21
+- JDK 22
 - Maven 3.9 
 - MySQL 8
 
@@ -16,7 +16,7 @@
 - Memcached
 - Rabbitmq
 - ElasticSearch
-# Database
+# Databaseg
 Here,we used Mysql DB 
 sql dump file:
 - /src/main/resources/db_backup.sql
